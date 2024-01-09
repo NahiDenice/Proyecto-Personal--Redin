@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-RedinApplication<redin>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.redin.redin.RedinApplication",
+            "projectName": "redin",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
